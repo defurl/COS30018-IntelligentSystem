@@ -1,0 +1,16 @@
+# Large datasets with problematic filenames
+src/week7/5-celebrity-faces-dataset/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Compiled files
+*.class
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
